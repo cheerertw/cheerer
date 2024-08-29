@@ -1,0 +1,48 @@
+.btn-close {
+  position: absolute;
+  right: 17.5px;
+  top: 17.5px;
+}
+
+.nav-link {
+  padding-left: 10px;
+}
+
+.ColorImage {
+  width: 100%;
+}
+
+.ColorImage img {
+  padding: 20px 25px;
+  margin-bottom: 0px;
+}
+
+.Pantone {
+  color: var(--bs-white);
+  font-weight: bold;
+  margin: 0px;
+}
+
+.ColorHeading {
+  color: var(--bs-white);
+  padding-top: 30px;
+}
+
+.ColorValue {
+  color: var(--bs-white);
+  padding-bottom: 15px;
+}
+
+.RedButton:hover {
+  background-color: var(--bs-red);
+}
+
+.YellowButton:hover {
+  background-color: var(--bs-yellow);
+  color: var(--bs-black);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
